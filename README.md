@@ -18,10 +18,10 @@
 | Pygame |
 
 
-** Srceenshot1 **
+**Srceenshot1**
 ![alt text](https://raw.githubusercontent.com/deveshbajaj/Device-Dreiver-For-Coustom-Hardware/master/Screenshot%20(46).png)
 
 
-** Srcreenshot 2 **
+**Srcreenshot 2**
 ![alt text](https://raw.githubusercontent.com/deveshbajaj/Device-Dreiver-For-Coustom-Hardware/master/Screenshot%20(40).png)
 
